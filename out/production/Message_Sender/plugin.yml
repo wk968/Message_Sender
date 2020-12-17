@@ -1,0 +1,5 @@
+name: Message_Sender
+version: 1.0.0
+author: Mitsuki1159
+main: com.Mitsuki1159.Message_Sender.Message_Sender
+api-version: 1.14
